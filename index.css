@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    
+    height: 100vh;
+}
+.bg-container-top{
+    margin-left: 25%;
+}
+
+.guess-game-image{
+    width: 100%;
+}
+.game-description{
+    color: #323f4b;
+    font-weight: 500;
+    font-size: 25px;
+    font-family: Roboto;
+    margin-top: 20px;
+}
+.guess-bg-container{
+    background-color: #246db6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 100vh;
+}
+.guess-heading{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 34px;
+}
+.guess-number-img{
+    width: 50px;
+}
+.user-input{
+    font-weight: 500;
+    font-size: 34px;
+    font-family: Roboto;
+    width: 300px;
+    color: #1f2933;
+    padding: 10px;
+    text-align: center;
+}
+.check-guess{
+    padding: 10px;
+    width: 170px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.game-result{
+    color: #ffffff;
+    padding: 10px;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 20px;
+}
